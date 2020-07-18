@@ -1,0 +1,10 @@
+{
+  "name": "express-respoonse",
+  "version": "0.0.1",
+  "description": "A builder pattern based standard response builder (easy integration with remote-ui)",
+  "main": "index.js",
+  "repository": "https://github.com/softmarshmallow/express-response.git",
+  "author": "softmarshmallow <woojoo@softmarshmallow.com>",
+  "license": "MIT",
+  "private": false
+}
