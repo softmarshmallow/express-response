@@ -1,0 +1,6 @@
+{
+  "name": "express-response-example",
+  "dependencies": {
+    "@bridged.io/express-response": "file:../"
+  }
+}
