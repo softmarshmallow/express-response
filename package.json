@@ -1,6 +1,6 @@
 {
   "name": "@bridged.io/express-response",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A builder pattern based standard response builder (easy integration with remote-ui)",
   "main": "index.js",
   "repository": "https://github.com/softmarshmallow/express-response.git",
