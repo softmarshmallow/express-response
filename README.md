@@ -1,7 +1,7 @@
 # express-response
 A builder pattern based standard response builder (easy integration with remote-ui)
 
-> Follows standard error format & fully customizable, most scenarios implemented by default, many of them are inspired from django rest framework
+> Follows standard error format & fully customizable, most scenarios implemented by default, many of them are inspired by django rest framework
 
 ## Installation
 
